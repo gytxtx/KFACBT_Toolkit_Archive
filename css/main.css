@@ -29,13 +29,13 @@ a {
 }
 
 #page-index .banner h1 strong {
-    color: #0066ff;
+    color: #009688;
     font-weight: 400
 }
 
 @media screen and (prefers-color-scheme:dark) {
     #page-index .banner h1 strong {
-        color: #0066ff
+        color: #009688
     }
 }
 
@@ -50,19 +50,19 @@ a {
     margin-right: 8px;
     margin-left: 8px;
     padding: 0 24px;
-    color: #0066ff;
+    color: #009688;
     font-size: 16px;
     line-height: 46px;
-    border: 1px solid #0066ff
+    border: 1px solid #009688
 }
 
 #page-index .banner .actions a:hover {
-    background-color: #0066ff;
+    background-color: #009688;
     color: #ffffff
 }
 
 #page-index .banner .actions a:active {
-    background-color: #0066ff;
+    background-color: #009688;
     color: #ffffff
 }
 
