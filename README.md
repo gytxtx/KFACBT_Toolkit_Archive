@@ -1,15 +1,45 @@
-# KFACBT_Toolkit
+# KFACBT's Toolkit
 
-`KFACBT's Toolkit` 是一款基于 `易语言`  开发的 **工具类应用程序**
-
-## 下载
-
-[从 GitHub 下载](https://github.com/gytxtx/KFACBT_Toolkit/releases) 来下载版本及源代码
+**KFACBT's Toolkit**是 `KFACBT` 使用 `易语言` 开发的一款面向`Windows`的工具箱。
 
 ## 此项目的最终版本及停止支持通知
 
 由于此项目功能过于复杂，且UI界面太简陋，现停止对此项目的开发和支持；
-本项目的部分内容将会迁移到具有新界面的新项目(Topex Toolkit)https://github.com/TopexStudio/Topex-Toolkit 中
+本项目的部分内容将会迁移到具有新界面的新项目 [Topex Toolkit](https://github.com/TopexStudio/Topex-Toolkit) 中
 
 感谢使用本产品的所有用户支持与理解。
 
+## 功能
+
+目前，该工具箱含有以下功能。
+
+- 时钟
+- 蜂鸣器
+- 桌面/分辨率管理
+- 播放器
+- 网域管理
+- 朗读功能
+- 系统管理功能
+其他功能可以下载或编译源代码查看。
+
+## 下载
+前往 [Releases](https://github.com/gytxtx/KFACBT_Toolkit/releases) 页下载。
+
+## 编译
+
+该软件采用易语言编写，如果你想要编译该软件，请准备以下环境：
+
+- Windows 7 和以上版本的电脑
+- 易语言 5.93
+
+同时，该软件引用了部分[精易模块](https://bbs.125.la)的代码，请在编辑/引用代码时遵守相关协议。
+
+## 协议
+
+本软件采用`GNU GENERAL PUBLIC LICENSE 3.0`协议，在分发、修改软件时**必须要标注**源码来源和原作者。
+
+<!--  ## 其它
+ - [公告API](https://topexstudio.top/Topex-Toolkit/API/GetAnnouncement_gbk)
+ - [更新API](https://topexstudio.top/Topex-Toolkit/API/LastVersion)
+ - [Apache License 2.0](https://topexstudio.top/apachelicense2)
+ - [开发准则](https://topexstudio.top/Topex-Toolkit/devloper-rule) --!>
