@@ -1,10 +1,11 @@
 # KFACBT's Toolkit
 
-**KFACBT's Toolkit**是 `KFACBT` 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
+**KFACBT's Toolkit** 是 `KFACBT` 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
 
 ## 此项目的最终版本及停止支持通知
 
 由于此项目功能过于复杂，且UI界面太简陋，现停止对此项目的开发和支持；
+
 本项目的部分内容将会迁移到具有新界面的新项目 [Topex Toolkit](https://github.com/TopexStudio/Topex-Toolkit) 中
 
 感谢使用本产品的所有用户支持与理解。
