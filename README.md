@@ -6,7 +6,7 @@
 
 由于此项目功能过于复杂，且 UI 界面太过简陋，现停止对此项目的开发和支持；
 
-本项目的部分内容将会迁移到具有新界面的新项目 `[Topex Toolkit](https://github.com/TopexStudio/Topex-Toolkit)` 中
+本项目的部分内容将会迁移到具有新界面的新项目 [Topex Toolkit](https://github.com/TopexStudio/Topex-Toolkit) 中
 
 感谢使用本产品的所有用户支持与理解。
 
