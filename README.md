@@ -1,6 +1,6 @@
 # KFACBT's Toolkit
 
-**KFACBT's Toolkit**是 `KFACBT` 使用 `易语言` 开发的一款面向`Windows`的工具箱。
+**KFACBT's Toolkit**是 `KFACBT` 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
 
 ## 此项目的最终版本及停止支持通知
 
