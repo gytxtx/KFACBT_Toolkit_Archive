@@ -22,7 +22,7 @@
 - 朗读功能
 - 系统管理功能
 
-其他功能可以下载或编译源代码查看。
+其他功能可以下载程序或编译源代码查看。
 
 ## 下载
 前往 [Releases](https://github.com/gytxtx/KFACBT_Toolkit/releases) 页下载。
