@@ -45,7 +45,7 @@ A:因为新版本将会添加一些新的特性，而新特性不支持 Windows 
 
 ## 协议
 
-本软件采用`GNU GENERAL PUBLIC LICENSE 3.0`协议，在分发、修改软件时**必须要标注**源码来源和原作者。
+本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时**必须要标注**源码来源和原作者。
 
 <!--  ## 其它
  - [公告API](https://topexstudio.top/Topex-Toolkit/API/GetAnnouncement_gbk)
