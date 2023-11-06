@@ -47,8 +47,8 @@ A:因为新版本将会添加一些新的特性，而新特性不支持 Windows 
 
 本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时**必须要标注**源码来源和原作者。
 
-<!--  ## 其它
- - [公告API](https://topexstudio.top/Topex-Toolkit/API/GetAnnouncement_gbk)
- - [更新API](https://topexstudio.top/Topex-Toolkit/API/LastVersion)
- - [Apache License 2.0](https://topexstudio.top/apachelicense2)
- - [开发准则](https://topexstudio.top/Topex-Toolkit/devloper-rule) --!>
+## 其它
+ - [公告API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
+ - [更新API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
+ - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
+<!-- - [开发准则](https://topexstudio.top/Topex-Toolkit/devloper-rule) --!>
