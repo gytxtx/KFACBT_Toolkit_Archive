@@ -1,7 +1,7 @@
 # KFACBT's Toolkit
 
 <div align="center">
-<br/><br/><br/>
+<!-- <br/><br/><br/> -->
 <img style="height:60px" src="./Material/KFACBT_Toolkit.ico">
 </div>
 
