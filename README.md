@@ -1,8 +1,9 @@
 # KFACBT's Toolkit
 
-<!-- <div align="center">
-<br/><br/><br/> -->
+<div align="center">
+<br/><br/><br/>
 <img style="height:60px" src="./Material/KFACBT_Toolkit.ico">
+</div>
 
 ## 简介
 
