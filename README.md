@@ -10,7 +10,7 @@
 **KFACBT's Toolkit** 是 `KFACBT` 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
 
 - 技术关键词: 易语言 / EPL / 工具箱
-- 支持的操作系统: Windows 7 - Windows 10
+- 支持的操作系统: Windows 7 - Windows 11
 
 ## 重要信息
 本项目的部分内容将会迁移到具有新界面的新项目 [Topex Toolkit](https://github.com/TopexStudio/Topex-Toolkit) 中
