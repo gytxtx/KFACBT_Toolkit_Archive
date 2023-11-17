@@ -7,7 +7,7 @@
 
 ## 简介
 
-**KFACBT's Toolkit** 是 `KFACBT` 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
+**KFACBT's Toolkit** 是 [KFACBT](https://github.com/gytxtx) 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
 
 - 技术关键词: 易语言 / EPL / 工具箱
 - 支持的操作系统: Windows 7 - Windows 11
