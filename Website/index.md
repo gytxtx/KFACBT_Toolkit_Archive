@@ -1,9 +1,10 @@
 # KFACBT's Toolkit
 
-<div align="center">
-<br/><br/><!-- <br/> -->
-<img style="height:60px" src="./Images/KFACBT_Toolkit.ico">
-</div>
+<p align="center">
+ <img width="100px" src="./Material/KFACBT_Toolkit.ico" align="center" alt="KFACBT's Toolkit" />
+ <h2 align="center">KFACBT's Toolkit</h2>
+ <p align="center">一款使用易语言开发的工具类应用程序。</p>
+ </p>
 
 ## 简介
 
@@ -65,6 +66,9 @@
 
 同时，该软件引用了部分 [精易模块](https://ec.125.la/) 的代码，请在编辑/引用代码时遵守相关协议。
 
+## 常见问题
+请跳转至 [帮助](https://github.com/gytxtx/KFACBT_Toolkit/blob/main/Help.md) 来查看
+
 ## 协议
 
 本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时**必须要标注**源码来源和原作者。
@@ -74,5 +78,3 @@
  - [公告API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
  - [更新API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
  - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
-<!-- - [开发准则](https://topexstudio.top/Topex-Toolkit/devloper-rule) --!>
-
