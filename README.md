@@ -67,7 +67,7 @@
 同时，该软件引用了部分 [精易模块](https://ec.125.la/) 的代码，请在编辑/引用代码时遵守相关协议。
 
 ## 常见问题
-请跳转至 [帮助](https://gytxtx.github.io/KFACBT_Toolkit/Help) 来查看
+请跳转至 [帮助](https://github.com/gytxtx/KFACBT_Toolkit/blob/main/Help.md) 来查看
 
 ## 协议
 
