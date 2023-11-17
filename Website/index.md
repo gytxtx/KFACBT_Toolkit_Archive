@@ -7,10 +7,37 @@
 
 ## 简介
 
-**KFACBT's Toolkit** 是 `KFACBT` 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
+**KFACBT's Toolkit** 是 [KFACBT](https://github.com/gytxtx) 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
 
 - 技术关键词: 易语言 / EPL / 工具箱
 - 支持的操作系统: Windows 7 - Windows 11
+
+## 你应该需要知道的
+
+以下简称 `KFACBT's Toolkit` 为 **应用程序**
+
+该应用程序使用 `易语言` 编写，部分反病毒软件可能会向用户报告应用程序可能危害此电脑，请**忽略这一类提示并信任应用程序**
+
+除了应用程序内提供的功能，应用程序**不会**额外**向 `Windows` 注册表写入不必要的数据，仅会在应用程序下的运行目录生成一个 `config.ini` 配置文件**
+
+应用程序内提供的部分功能可能需要向用户申请 `管理员` 权限
+
+## 重要信息
+
+本项目的部分内容将会迁移到具有新界面的新项目 [Topex Toolkit](https://github.com/TopexStudio/Topex-Toolkit) 中
+
+感谢使用本产品的所有用户的支持与理解。
+
+补充说明：
+本项目并不是停止开发，只是更新次数变少了
+
+>23/10/30 补充说明：
+>
+>本项目在一些特定操作系统上(Windows 7 以下版本)将会停止支持。
+>
+>Q:为什么此项目不支持 Windows 7 以下的版本？
+>
+>A:因为新版本将会添加一些新的特性，而新特性不支持 Windows 7 以下的版本；还有 Windows 7 以下的操作系统基本没人在使用了
 
 ## 功能
 
@@ -43,6 +70,9 @@
 本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时**必须要标注**源码来源和原作者。
 
 ## 其它
+ - [易语言官网](https://dywt.com.cn/)
  - [公告API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
  - [更新API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
  - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
+<!-- - [开发准则](https://topexstudio.top/Topex-Toolkit/devloper-rule) --!>
+
