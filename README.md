@@ -70,6 +70,7 @@
 本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时**必须要标注**源码来源和原作者。
 
 ## 其它
+ - [易语言官网](https://dywt.com.cn/)
  - [公告API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
  - [更新API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
  - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
