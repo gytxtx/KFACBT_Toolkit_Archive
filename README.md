@@ -3,7 +3,7 @@
 <p align="center">
  <img width="100px" src="./Material/KFACBT_Toolkit.ico" align="center" alt="KFACBT's Toolkit" />
  <h2 align="center">KFACBT's Toolkit</h2>
- <p align="center">一款使用易语言开发的工具类应用程序。</p>
+ <p align="center">为 Windows 用户提供高级功能解决方案的应用程序。</p>
  </p>
 
 <div align="center">
