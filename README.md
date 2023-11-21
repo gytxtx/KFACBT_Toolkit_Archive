@@ -6,6 +6,13 @@
  <p align="center">一款使用易语言开发的工具类应用程序。</p>
  </p>
 
+<div align="center">
+<!--  <img alt="Documentation" src="https://img.shields.io/badge/Wiki-KFACBT's Toolkit-blue?style=for-the-badge&link=https://github.com/gytxtx/KFACBT_Toolkit/wiki&link=https://github.com/gytxtx/KFACBT_Toolkit/wiki"> -->
+ <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
+ <img alt="GitHub" src="https://img.shields.io/github/license/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
+ <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
+</div>
+
 ## 简介
 
 **KFACBT's Toolkit** 是 [KFACBT](https://github.com/gytxtx) 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
