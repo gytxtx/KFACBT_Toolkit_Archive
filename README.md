@@ -84,4 +84,4 @@
  - [公告API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
  - [更新API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
  - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
-<!-- - [开发准则](https://topexstudio.top/Topex-Toolkit/devloper-rule) --!>
+
