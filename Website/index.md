@@ -1,10 +1,16 @@
 # KFACBT's Toolkit
 
 <p align="center">
- <img width="100px" src="./Material/KFACBT_Toolkit.ico" align="center" alt="KFACBT's Toolkit" />
+ <img width="100px" src="./Images/KFACBT_Toolkit.ico" align="center" alt="KFACBT's Toolkit" />
  <h2 align="center">KFACBT's Toolkit</h2>
- <p align="center">一款使用易语言开发的工具类应用程序。</p>
+ <p align="center">为 Windows 用户提供固定高级功能解决方案的应用程序。</p>
  </p>
+
+<div align="center">
+ <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
+ <img alt="GitHub" src="https://img.shields.io/github/license/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
+ <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
+</div>
 
 ## 简介
 

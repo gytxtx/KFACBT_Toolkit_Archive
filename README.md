@@ -7,7 +7,6 @@
  </p>
 
 <div align="center">
-<!--  <img alt="Documentation" src="https://img.shields.io/badge/Wiki-KFACBT's Toolkit-blue?style=for-the-badge&link=https://github.com/gytxtx/KFACBT_Toolkit/wiki&link=https://github.com/gytxtx/KFACBT_Toolkit/wiki"> -->
  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
  <img alt="GitHub" src="https://img.shields.io/github/license/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
@@ -85,4 +84,4 @@
  - [公告API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
  - [更新API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
  - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
-<!-- - [开发准则](https://topexstudio.top/Topex-Toolkit/devloper-rule) --!>
+
