@@ -103,7 +103,7 @@
 
 ## 其它
  - [易语言官网](https://dywt.com.cn/)
- - [公告API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
- - [更新API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
+ - [公告 API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
+ - [更新 API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
  - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
 
