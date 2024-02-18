@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>蓝云的网站</title>
+  <link rel="stylesheet" href="https://unpkg.com/mdui@1.0.2/dist/css/mdui.min.css"/>
+</head>
+<body>
+  <style>
+    #myBtn {
+      display: none;
+      position: fixed;
+      bottom: 20px;
+      right: 30px;
+      z-index: 99;
+      border: none;
+      outline: none;
+      background-color: red;
+      color: white;
+      cursor: pointer;
+      padding: 20px;
+      border-radius: 100px;
+    }
+    
+    </style>
+    </head>
+    <body class="mdui-appbar-with-toolbar mdui-appbar-with-tab">
+    
+      <button class="mdui-btn mdui-btn-icon mdui-color-blue-700 mdui-ripple" onclick="topFunction()" id="myBtn" title="回顶部"><i class="mdui-icon material-icons">arrow_upward</i></button>
+    
+    <script>
+    // 当网页向下滑动 20px 出现"返回顶部" 按钮
+    window.onscroll = function() {scrollFunction()};
+     
+    function scrollFunction() {console.log(121);
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("myBtn").style.display = "block";
+        } else {
+            document.getElementById("myBtn").style.display = "none";
+        }
+    }
+     
+    // 点击按钮，返回顶部
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+    </script>
+  <div class="mdui-appbar mdui-appbar-fixed">
+    <div class="mdui-toolbar mdui-color-blue-600">
+      <a href="javascript:;" class="mdui-typo-title">蓝云的网站</a>
+      <div class="mdui-toolbar-spacer"></div>
+    </div>
+    <div class="mdui-tab mdui-color-blue-700" mdui-tab>
+      <a href="#tab1" class="mdui-ripple mdui-ripple-white">
+        <i class="mdui-icon material-icons">home</i>
+        <label>主页</label>
+      </a>
+      <a href="#tab2" class="mdui-ripple mdui-ripple-white">
+        <i class="mdui-icon material-icons">build</i>
+        <label>蓝云工具箱</label>
+      </a>
+      <a href="#tab3" class="mdui-ripple mdui-ripple-white">
+        <i class="mdui-icon material-icons">info</i>
+        <label>关于</label>
+      </a>
+    </div>
+  </div>
+
+  <div class="mdui-container-fluid">
+    <div id="tab1">
+  <br><br><p align="center"><img width="200px" src="https://picshack.net/ib/Wgm674sW28.png" align="center" alt="蓝云工具箱" />
+<br><br>嗷呜~ 欢迎来到蓝云的网站~ awa
+<br>QQ群：643342555
+<br><br>
+    </div>
+    <div id="tab2">
+      <p align="center">
+        <br><br><img width="130px" src="https://picshack.net/ib/xlarRjSnve.png" align="center" alt="蓝云工具箱" />
+        <h2 align="center">蓝云工具箱</h2>
+        <p align="center">一款好用的工具箱</p>
+        <p align="center">版本：5.4.0.540 大小：581MB 更新日期：2023-02-10</p>
+         <p align="center">系统要求:Win7+ 64位</p>
+        </p>
+
+       
+        <h2 align="center"></h2>
+        
+
+      <br><div class="mdui-appbar">
+        <div class="mdui-tab mdui-color-blue-700" mdui-tab>
+          <a href="#example3-tab2-1" class="mdui-ripple mdui-ripple-white">截图</a>
+          <a href="#example3-tab2-2" class="mdui-ripple mdui-ripple-white">下载地址</a>
+          <a href="#example3-tab2-3" class="mdui-ripple mdui-ripple-white">电脑要求</a>
+        </div>
+      </div>
+      <div class="mdui-container-fluid">
+        <div id="example3-tab2-1">
+          <p align="center">
+            <br><img width="600px" src="https://picshack.net/ib/BFS555nVbW.png" align="center" alt="蓝云工具箱" />
+        </div>
+        <div id="example3-tab2-2">
+          <br>https://www.123pan.com/s/GLTtVv-BnejH.html
+          <br>https://pan.huang1111.cn/s/EvElFb
+          <br>https://www.alipan.com/s/7Pxhhbvh1U7
+          <br><br>
+        </div>
+        <div id="example3-tab2-3">
+          <br>- Windows 7 64位 以上系统（部分工具不支持 Win 7）
+            <br>- 需安装（解压）工具箱的所有文件
+            <br>- 显示器：推荐 1366×768 以上分辨率，最低 1024×768 分辨率
+            <br>- CPU：All CPU
+            <br>- 内存：推荐 ≥4GB，最低：＝4GB
+            <br>- 硬盘：≥600MB 空间（运行其中的工具需预留C盘160MB左右和工具所在盘空间，不然无法运行。）
+            <br><br>
+        </div>
+    </div>
+ 
+
+
+  </div>
+  <div class="mdui-appbar">
+    <div class="mdui-toolbar mdui-color-blue-600">
+      <a href="javascript:;" class="mdui-typo-title">Copyright © 2019-2024 蓝云 All rights reserved.</a>
+      <div class="mdui-toolbar-spacer"></div>
+    </div>
+    <div class="mdui-toolbar mdui-color-blue-600">
+      <a href="javascript:;" class="mdui-typo-title">Powered by MDUI</a>
+      <div class="mdui-toolbar-spacer"></div>
+    </div>
+  <script src="https://unpkg.com/mdui@1.0.2/dist/js/mdui.min.js"></script>
+</body>
+</html>
