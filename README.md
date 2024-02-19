@@ -100,9 +100,13 @@
 ## 常见问题
 请跳转至 [帮助](https://github.com/gytxtx/KFACBT_Toolkit/blob/main/Help.md) 来查看
 
+<!-- ## 协议
+
+本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时 **必须要标注** 源码来源和原作者。 -->
+
 ## 协议
 
-本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时 **必须要标注** 源码来源和原作者。
+本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时 **必须要标注** 源码来源和原作者。此外，如果你修改了本软件并且打算分发这个修改后的版本，你也 **必须开源你的修改**。
 
 ## 其它
  - [易语言官网](https://dywt.com.cn/)
