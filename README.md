@@ -92,6 +92,10 @@
 ## 常见问题
 请跳转至 [帮助](https://github.com/gytxtx/KFACBT_Toolkit/blob/main/Help.md) 来查看
 
+## 文档
+
+[KFACBT's Toolkit - 文档](https://gytxtx.github.io/Docs/#/docs/KFACBT_Toolkit/)
+
 <!-- ## 协议
 
 本软件采用 `GNU GENERAL PUBLIC LICENSE 3.0` 协议，在分发、修改软件时 **必须要标注** 源码来源和原作者。 -->
