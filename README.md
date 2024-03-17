@@ -18,6 +18,10 @@
 
 感谢您的理解。
 
+<div align="center">
+    <h1>再见，愿你们活下去。</h1>
+</div>
+
 ## 简介
 
 **KFACBT's Toolkit** 是 [KFACBT](https://github.com/gytxtx) 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
