@@ -12,6 +12,16 @@
  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
 </div>
 
+## 通告
+
+经过本人一段时间的思考，决定：
+我的精神状态与能力不适合承担 KFACBT's Toolkit 以及其他项目的开发与维护工作，所以我决定停止本人所有项目的开发/维护。
+
+特此通告。
+
+2024/03/28 19:24
+KFACBT
+
 ## 简介
 
 **KFACBT's Toolkit** 是 [KFACBT](https://github.com/gytxtx) 使用 `易语言` 开发的一款面向 `Windows` 的工具箱。
