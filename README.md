@@ -12,7 +12,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
 </div>
 
-<!-- ## 通告
+## 通告
 
 经过本人一段时间的思考，决定：
 
@@ -20,9 +20,11 @@
 
 特此通告。
 
+<div align="right">
 2024/03/28 19:24
 
-KFACBT -->
+KFACBT
+</div>
 
 ## 简介
 
