@@ -61,14 +61,7 @@ KFACBT
 
 ---
 
-  - 通知 2 `2023.10.04`
-
-> [!IMPORTANT]\
-> 本项目的部分内容将会迁移到具有新界面的新项目 [Topex Toolkit](https://github.com/TopexStudio/Topex-Toolkit) 中；
-
----
-
- -  通知 3 `2023.10.30`
+ -  通知 2 `2023.10.30`
 
 > [!IMPORTANT]\
 > 本项目在一些特定操作系统上(Windows 7 以下版本)将会停止支持。
@@ -120,4 +113,3 @@ KFACBT
  - [公告 API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetAnnouncement_gbk)
  - [更新 API](https://gytxtx.xyz/KFACBT_Toolkit/API/GetLastVersion)
  - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
-
