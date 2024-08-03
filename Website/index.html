@@ -508,13 +508,17 @@
 
     <!-- 引入 MDUI JavaScript 文件 -->
     <script src="./js/mdui.min.js"></script>
+
+    <!-- 引入 JQuery 库 -->
+    <script src="./js/jquery.min.js"></script>
+    
 </body>
 
 <script>
     $("#announcementBox").hide(100, function () { getAnnouncement() })
     getDownloadURL()
     function getAnnouncement() {
-        $.get("https://www.gnu.org/licenses/gpl-3.0.txt", function (rdata) {
+        $.get("https://gytxtx.github.io/KFACBT_Toolkit/LICENSE", function (rdata) {
             $("#announcementBox").show(100)
             $("#announcementBox").html(rdata.replaceAll('\n', '<br/>'))
         });
