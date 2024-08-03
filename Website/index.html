@@ -318,8 +318,62 @@
                     <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-blue-700">立即下载</button>
                 </a>
 
+                <a href="https://gytxtx.github.io/Docs-MkDocs/" target="_blank">
+                    <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-blue-700">
+                        <i class="mdui-icon mdui-icon-left material-icons">insert_drive_file</i>查看文档
+                    </button>
+                </a>
+
+                <!-- <a href="https://github.com/gytxtx/KFACBT_Toolkit/" target="_blank">
+                    <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-blue-700">
+                        <i class="mdui-icon mdui-icon-left material-icons">file_download</i>下载源代码
+                    </button>
+                </a> -->
+
+                <!-- <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-blue-700"
+                mdui-dialog="{target: '#toolbox-down'}">立即下载</button> -->
+
+                <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-blue-700"
+                    mdui-dialog="{target: '#toolbox-down'}"><i
+                        class="mdui-icon mdui-icon-left material-icons">file_download</i>下载源代码</button>
+
+
                 <!-- <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-blue-700">立即下载</button> -->
                 <!-- <button class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-blue-700">更新日志</button> -->
+
+
+                <!-- <div class="mdui-dialog" id="toolbox-down">
+                    <div class="mdui-dialog-content">
+                        <div class="mdui-dialog-title">下载链接</div>
+
+                    </div>
+                    <div class="mdui-dialog-actions">
+                        <button class="mdui-btn mdui-ripple" mdui-dialog-close>确定</button>
+                    </div>
+                </div> -->
+
+            <div class="mdui-dialog" id="toolbox-down">
+                <div class="mdui-dialog-title">在下载源代码之前，请仔细阅读并遵守下方的许可证。</div>
+                <div class="mdui-dialog-content">
+
+                    <div class="mdui-typo">
+                        <blockquote>
+                          <p id="announcementBox">正在加载许可证...</p>
+                          <!-- <footer>Footer</footer> -->
+                        </blockquote>
+                      </div>
+
+                    <!-- <div id="announcementBox">正在加载公告中Loading ヽ（≧□≦）ノ</div><br><br> -->
+                    <p>下载和使用源代码，即代表您同意此许可证的内容。</p>
+                </div>
+                <div class="mdui-dialog-actions">
+                    <button class="mdui-btn mdui-ripple" mdui-dialog-close>关闭</button>
+
+                    <a href="https://github.com/gytxtx/KFACBT_Toolkit/" target="_blank">
+                        <button class="mdui-btn mdui-ripple">下载源代码</button>
+                    </a>
+                </div>
+            </div>
             </p>
 
             <!-- <p></p> -->
@@ -456,4 +510,14 @@
     <script src="./js/mdui.min.js"></script>
 </body>
 
+<script>
+    $("#announcementBox").hide(100, function () { getAnnouncement() })
+    getDownloadURL()
+    function getAnnouncement() {
+        $.get("https://www.gnu.org/licenses/gpl-3.0.txt", function (rdata) {
+            $("#announcementBox").show(100)
+            $("#announcementBox").html(rdata.replaceAll('\n', '<br/>'))
+        });
+    }
+</script>
 </html>
