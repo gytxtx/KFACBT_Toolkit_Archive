@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000" fill="none">
+<rect x="0" y="0" width="0" height="0" fill="rgba(249, 249, 249, 1)" />
+<path     fill="#00376E"  d="M0 1000L1000 1000L1000 0L0 0L0 1000Z">
+</path>
+<rect x="50" y="50" width="900" height="900"   fill="#0060C0" >
+</rect>
+<g >
+<path     fill="#FFFFFF"  d="M494.25 693.5L421.25 693.5L273.75 516L249.75 540L249.75 693.5L193.25 693.5L193.25 307L249.75 307L249.75 467.5L404.75 307L482.75 307L313.75 476L494.25 693.5ZM717.25 693.5L660.25 693.5L660.25 360.5L544.75 360.5L544.75 307L832.25 307L832.25 360.5L717.25 360.5L717.25 693.5Z">
+</path>
+</g>
+</svg>
