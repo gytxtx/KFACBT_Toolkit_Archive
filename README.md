@@ -1,10 +1,10 @@
 # KFACBT's Toolkit
 
-<p align="center">
+<div align="center">
     <img width="100px" src="./Material/KFACBT_Toolkit.ico" align="center" alt="KFACBT's Toolkit" />
     <h2 align="center">KFACBT's Toolkit</h2>
     <p align="center">为 Windows 用户提供固定高级功能解决方案的应用程序。</p>
-</p>
+</div>
 
 <div align="center">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/gytxtx/KFACBT_Toolkit?style=for-the-badge"> 
@@ -24,15 +24,15 @@
 > [!NOTE]\
 > 以下简称 `KFACBT's Toolkit` 为 **应用程序**
 >
-> 该应用程序使用 `易语言` 编写，部分反病毒软件可能会向用户报告应用程序可能危害此电脑，请**忽略这一类提示并信任应用程序**
+> 该应用程序使用 `易语言` 编写，部分反病毒软件可能会向用户报告应用程序可能危害此电脑，请**忽略这一类提示并信任应用程序**。
 >
-> 除了应用程序内提供的功能，应用程序 **不会** 额外 **向 `Windows` 注册表写入不必要的数据，仅会在应用程序下的运行目录生成一个 `config.ini` 配置文件**
+> 除了应用程序内提供的功能，应用程序 **不会额外向 `Windows` 注册表写入不必要的数据，仅会在应用程序下的运行目录生成一个 `config.ini` 配置文件和 `Log.log` 日志文件**。
 >
-> 应用程序内提供的部分功能可能需要向用户申请 `管理员` 权限
+> 应用程序内提供的部分功能可能需要向用户申请 **管理员权限**。
 
 ## 重要信息
 
- - 通知 1 `2023.12.07`
+### 通知 1 - `2023.12.07`
 
 > [!IMPORTANT]\
 > 由于易语言的一些限制(如 **不支持 Unicode 、不支持 64 位软件开发、软件误报等** )，在 **2024 年** ，**结束对此易语言项目的开发和支持** ；
@@ -47,7 +47,7 @@
 
 ---
 
- -  通知 2 `2023.10.30`
+### 通知 2 - `2023.10.30`
 
 > [!IMPORTANT]\
 > 本项目在一些特定操作系统上(Windows 7 以下版本)将会停止支持。
@@ -76,7 +76,8 @@
  - [x] 背景图片透明度
  - [x] 窗口背景色
  - [x] “背景音乐” 功能
- - [ ] “检查更新” 支持内置下载 + 点击跳转浏览器 + 复制下载链接(√)
+ - [ ] “检查更新” 支持内置下载 + 点击跳转浏览器 + 复制下载链接
+ - [ ] 浅色/深色主题（已放弃）
  - [ ] “个性化” 功能预览界面
  - [ ] “加载” 窗口阴影 
  - [ ] 动态壁纸
@@ -121,13 +122,13 @@
 该软件采用易语言编写，如果你想要编译该软件，请准备以下环境：
 
 - Windows 7 和以上版本的电脑
-- 易语言 5.93
+- 易语言 v5.93 或更高版本
 
-同时，该软件引用了部分 [精易模块](https://ec.125.la/) 的代码，请在编辑/引用代码时遵守相关协议。
+同时，该软件引用了 [精易模块](https://ec.125.la/)，请在编辑 / 引用代码时遵守相关协议。
 
 ## 文档
 
-[KFACBT's Toolkit - 文档](https://gytxtx.github.io/Docs/#/docs/KFACBT_Toolkit/)
+[文档](https://gytxtx.github.io/Docs/#/docs/KFACBT_Toolkit/)
 
 ## 协议
 
@@ -135,6 +136,7 @@
 
 ## 其它
  - [易语言官网](https://dywt.com.cn/)
- - [公告 API](https://gytxtx.github.io/KFACBT_Toolkit/API/GetAnnouncement_gbk)
- - [更新 API](https://gytxtx.github.io/KFACBT_Toolkit/API/GetLastVersion)
- - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt)
+ - [信息 API](https://gytxtx.github.io/KFACBT_Toolkit/API/GetInformation.json) | 获取应用程序的最新信息。
+ - [更新 API](https://gytxtx.github.io/KFACBT_Toolkit/API/GetLastVersionInfo.json) | 获取最新版本的更新信息。
+ - [Apache License v2](https://www.apache.org/licenses/LICENSE-2.0)
+ <!-- - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt) -->
