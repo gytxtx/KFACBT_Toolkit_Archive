@@ -140,3 +140,6 @@
  - [更新 API](https://gytxtx.github.io/KFACBT_Toolkit/API/GetLastVersionInfo.json) | 获取最新版本的更新信息。
  - [Apache License v2](https://www.apache.org/licenses/LICENSE-2.0)
  <!-- - [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/gpl-3.0.txt) -->
+
+<!-- # KFACBT_Toolkit
+KFACBT's Toolkit - KFACBT 的工具箱 | 使用易语言开发 -->
